@@ -212,7 +212,7 @@ docker compose exec db psql -U partsuser -d autopartsdb -c "SELECT * FROM parts;
 
 Форма добавления новой запчасти с заполненными полями.
 
-![Добавление лота](images/lot_add.jpg)
+![Добавление лота](images/lot_added.jpg)
 
 ### 2. Лот добавлен
 
