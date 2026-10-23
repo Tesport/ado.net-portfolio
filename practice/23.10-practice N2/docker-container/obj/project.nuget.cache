@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hj2Re1/YEI=",
+  "success": true,
+  "projectFilePath": "/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/AutoPartsApp.csproj",
+  "expectedPackageFiles": [
+    "/home/tesport/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/tesport/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/tesport/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512",
+    "/home/tesport/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.32/microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "/home/tesport/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.32/microsoft.netcore.app.host.linux-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

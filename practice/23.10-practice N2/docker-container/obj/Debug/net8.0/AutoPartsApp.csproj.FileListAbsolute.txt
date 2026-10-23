@@ -1,0 +1,10 @@
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.csproj.AssemblyReference.cache
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.AssemblyInfoInputs.cache
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.AssemblyInfo.cs
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.csproj.CoreCompileInputs.cache
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.MvcApplicationPartsAssemblyInfo.cache
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.RazorAssemblyInfo.cache
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.RazorAssemblyInfo.cs
+/home/tesport/projects/ado.net-portfolio/practice/23.10-practice/obj/Debug/net8.0/AutoPartsApp.sourcelink.json
